@@ -2,7 +2,7 @@
 
 A browser-based Snake game built as a single HTML file. No installs, no downloads: open it and play.
 
-**▶️ Play it here:** https://rupaktajpuriya29-lab.github.io/Wild-Snake/wild_snake.html
+**▶️ Play it here:** https://rupaktajpuriya29-lab.github.io/Wild-Snake/
 
 ---
 
